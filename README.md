@@ -1,6 +1,7 @@
-ffmpeg的使用和安装
-===
+# ffmpeg的使用和安装
+
 ## 1.去ffmpeg的官网下载地址:https://ffmpeg.zeranoe.com/builds/ 点击"download build"按钮，下载zip文件。
+
 ## 2.解压
 
 # 环境变量的配置
